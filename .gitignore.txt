@@ -1,0 +1,5 @@
+manuscript/
+output/
+*.png
+.Rproj.user/
+.Rhistory
